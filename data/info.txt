@@ -1,0 +1,1 @@
+訓練資料存放區，輸入檔案格式可以參考`ref/traditional-chinese-alpaca/data/alpaca-tw_en_instruction.json`

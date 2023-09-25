@@ -1,0 +1,13 @@
+pip install peft==0.2.0
+pip install sentencepiece
+pip install accelerate==0.20.3
+pip install bitsandbytes==0.37.1
+pip install datasets
+pip install wandb
+pip install transformers==4.27.2
+pip install evaluate
+
+
+
+
+pip install "transformers==4.27.2" "datasets==2.9.0" "accelerate==0.17.1" "evaluate==0.4.0" "bitsandbytes==0.37.1" loralib --upgrade --quiet
