@@ -1,9 +1,9 @@
 # LLM使用手冊
 
 ## 檔案介紹區：
-1. `data/` : 訓練資料存放區，輸入檔案格式可以參考`ref/traditional-chinese-alpaca/data/alpaca-tw_en_instruction.json`
+1. `data/` : 訓練資料存放區，輸入檔案格式可以參考`ref/alpaca-tw_en_instruction.json`
 2. `model/` : 存放模型的地方
-3. `ref/` : 原始參考github來源
+3. `ref/` : 原始參考github來源(https://github.com/ntunlplab/traditional-chinese-alpaca)
 4. `config.py` : model.py的參數放置區
 5. `inference.py` : 模型訓練完後，使用推理區
 6. `model.py` : 模型訓練py檔
